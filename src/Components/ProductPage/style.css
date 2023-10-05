@@ -1,0 +1,21 @@
+.product {
+    display: flex;
+    padding-left: 150px;
+    justify-content:left;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.productSection {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+button {
+    padding: 15px 30px;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    border: 1px  rgb(46, 45, 45) ;
+    font-size: 16px;
+}
